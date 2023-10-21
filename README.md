@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YqMF4AHYlGEWk/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/YqMF4AHYlGEWk/giphy.gif" width="450" height="300"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lockiultra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
