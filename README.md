@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/YqMF4AHYlGEWk/giphy.gif" width="450" height="300"/>
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,django,docker,bash,github,pytorch,vscode,)](https://skillicons.dev)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lockiultra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lockiultra&theme=dark&background=000000)](https://git.io/streak-stats)
