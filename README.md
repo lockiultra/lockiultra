@@ -1,6 +1,16 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/YqMF4AHYlGEWk/giphy.gif" width="500" height="300"/>
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lockiultra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lockiultra&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockiultra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **lockiultra/lockiultra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
